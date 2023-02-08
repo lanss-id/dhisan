@@ -1,7 +1,7 @@
 <x-app-layout>
     <section>
         <div class="w-full h-full">
-            <div class="object-cover  h-screen bg-cover bg-[url('https://source.unsplash.com/1000x1000?architechture')]">
+            <div class="object-cover h-screen bg-cover bg-[url('https://source.unsplash.com/1000x1000?architechture')]">
             </div>
         </div>
     </section>
