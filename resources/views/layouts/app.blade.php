@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="{{ asset('swiper/swiper.css') }}"/>
     <title>{{ $title }}</title>
 </head>
-<body>
+<body class="scrollbar-thin scrollbar-rounded-sm scrollbar-thumb-gold">
     <header>
         <x-navbar/>
     </header>

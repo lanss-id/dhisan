@@ -1,15 +1,15 @@
 <x-app-layout>
     <!-- hero section start -->
     <section id="home">
-        <div class="container pt-44 pb-14 md:pt-36 lg:pt-56 xl:pt-48 2xl:pt-36 mx-auto">
+        <div class="container pb-14 pt-32 md:pt-24 lg:pt-12 xl:pt-12 2xl:pt-12 mx-auto">
             <div class="flex flex-wrap px-6">
                 <div class="w-full self-center lg:w-1/2 lg:order-last lg:aspect-square">
                     <img src="{{ asset('img/rdepok/1.jpg') }}" alt="desain arsitektur" class="rounded-br-2xl object-cover h-full">
                 </div>
-                <div class="w-full self-center pt-10 lg:w-1/2 lg:pt-0 lg:pr-8 xl:pr-10">
-                    <h1 class="font-medium text-2xl text-jet capitalize leading-loose lg:leading-[2]">Mengubah dunia melalui <span class="capitalize text-gold text-5xl font-semibold tracking-wide block lg:mt-4 xl:font-bold">dhisan arsitektur</span></h1>
-                    <p class="text-lg font-base mt-4 text-gray-500 md:text-xl lg:text-2xl lg:mt-6 tracking-widest md:tracking-wider lg:tracking-wide">Membangun dunia yang lebih baik, satu bangunan demi satu bangunan</p>
-                    <div class="mt-8 lg:mt-12">
+                <div class="w-full self-center pt-10 sm:text-center lg:text-left lg:w-1/2 lg:pt-0 lg:pr-8 xl:pr-10">
+                    <h1 class="font-medium text-2xl text-jet capitalize leading-loose lg:leading-[2]">Mengubah dunia melalui <span class="capitalize text-gold text-5xl font-semibold tracking-wide block lg:mt-2 xl:font-bold">dhisan arsitektur</span></h1>
+                    <p class="text-lg font-base mt-4 text-gray-500 md:text-xl lg:text-2xl lg:mt-4 tracking-widest md:tracking-wider lg:tracking-wide">Membangun dunia yang lebih baik, satu bangunan demi satu bangunan</p>
+                    <div class="mt-6 lg:mt-10">
                         <a href="#" class="py-3 px-4 md:px-6 md:py-3 bg-gradient-to-r from-jet to-erie rounded-md text-lg font-base tracking-wide text-ivory capitalize">hubungi kami</a>
                     </div>
                 </div>
