@@ -80,7 +80,7 @@
         <div class="px-6 py-16 mt-16 lg:mt-44">
             <h1 class="text-lg text-center font-medium text-gold uppercase tracking-wide">Alasan</h1>
             <h2 class="mt-2 text-2xl text-center font-semibold text-erie capitalize ">mengapa memilih kami?</h2>
-            <div class="container mx-auto flex flex-wrap mt-12 lg:flex-nowrap lg:space-x-5">
+            <div class="container mx-auto flex flex-wrap mt-12 lg:flex-nowrap lg:space-x-5 ">
                 <div class="w-full h-90 md:h-[28rem] px-8 py-14 bg-cream/60 rounded-md scale-[.96] hover:scale-100 transition duration-300 ease-in-out overflow-hidden md:w-1/3">
                     <svg class="w-24 h-24" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
                         viewBox="0 0 50 50">
